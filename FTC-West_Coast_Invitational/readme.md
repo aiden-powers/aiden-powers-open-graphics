@@ -1,7 +1,7 @@
 ![Logo Banner](example/WCI_Readme_Banner.png)
 
 # West Coast Invitational
-West Coast Invitational is a one-of-a-kind FIRST Tech Challenge offseason robotics competition event held in Washington State.
+West Coast Invitational is a one-of-a-kind FIRST Tech Challenge offseason robotics competition held in Washington State.
 
 ## Open Graphics Commitment
 This design collection is fully commited to open graphics. These designs should be easily usable without any Adobe software or Adobe Fonts.
