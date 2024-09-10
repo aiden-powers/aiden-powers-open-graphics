@@ -8,6 +8,6 @@ This design collection is fully commited to open graphics. These designs should 
 
 ## Fonts
 - [Inter](https://fonts.google.com/specimen/Inter)
-  - Please install the variable versions.
+  - Please install all variable versions.
 - [Montserrat](https://fonts.google.com/specimen/Montserrat)
-  - Please install the variable versions.
+  - Please install all variable versions.
