@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Branding_2">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Branding_2" clip-path="url(#clip-Branding_2)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Group_30" data-name="Group 30">
+      <g id="Group_20" data-name="Group 20" transform="translate(1473.015 403.515)" style="isolation: isolate">
+        <path id="Path_51" data-name="Path 51" d="M0,0V28.654H85.4V42.981H0v71.635H113.868V85.963h-85.4V71.634h85.4V0Z" transform="translate(0 0)"/>
+        <path id="Path_52" data-name="Path 52" d="M111.055,28.653h56.934V42.981H111.055ZM82.589,0V71.634h85.4V85.963h-85.4v28.653H196.454V0Z" transform="translate(45.514)"/>
+        <path id="Path_53" data-name="Path 53" d="M0,82.106v28.653H85.4v14.327H0v28.655H85.4v14.327H0v28.655H113.868V82.106Z" transform="translate(0 45.247)"/>
+        <path id="Path_54" data-name="Path 54" d="M125.289,153.742h28.467V125.087H125.289ZM111.055,110.76h56.934v57.31H111.055ZM82.589,196.723H196.456V82.105H82.589Z" transform="translate(45.514 45.247)"/>
+      </g>
+      <text id="sonic_Squirrels" data-name="sonic
+Squirrels" transform="translate(259.13 518.928)" font-size="100" font-family="Vermin-Vibes-Slant, Vermin Vibes Slant"><tspan x="0" y="0">sonic</tspan><tspan x="0" y="111">Squirrels</tspan></text>
+    </g>
+  </g>
+</svg>
