@@ -3,6 +3,9 @@
 # Open Graphics by Aiden Powers
 Public graphic design resources for my work.
 
+- [Sonic Squirrels Reference Images](FRC-Sonic_Squirrels)
+- [West Coast Invitational Branding](FTC-West_Coast_Invitational)
+
 ### "Some designs you show online are missing, where are they?"
 I am in the process of converting my previous designs (that include Adobe fonts) to an open standard. I cannot guarantee that all my designs will become public.
 

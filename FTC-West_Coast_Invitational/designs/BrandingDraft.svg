@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#feae6b"/>
+      <stop offset="1" stop-color="#cc1709"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffdb9c"/>
+      <stop offset="1" stop-color="#ef4600"/>
+    </linearGradient>
+    <clipPath id="clip-BrandingDraft">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="BrandingDraft" clip-path="url(#clip-BrandingDraft)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_147" data-name="Rectangle 147" width="1920" height="1081.192" transform="translate(0.002 0)" fill="url(#linear-gradient)"/>
+    <g id="Group_311" data-name="Group 311" transform="translate(-370.716 -319.503)">
+      <circle id="Ellipse_702" data-name="Ellipse 702" cx="237.103" cy="237.103" r="237.103" transform="translate(1880.539 717.398)" fill="url(#linear-gradient-2)"/>
+      <g id="Group_310" data-name="Group 310">
+        <path id="_5" data-name="5" d="M0,53.98S294.439-24.281,532.247,7.662C692.768,29.224,825.826,57.176,945.181,202.586c61.945,75.468,16.158-192.544,128.1-20.164s56.246,407.595,56.246,407.595S1002.093,410.781,841.326,403.8,724.04,532.352,711.92,674.721C700.959,803.471,739.8,858.042,945.254,851.511c112.568-3.578,299.773-138.563,402.128-125.877,139,17.227,243.228,219,243.228,219v355.16H0Z" transform="matrix(0.951, 0.309, -0.309, 0.951, 401.657, 33.25)" fill="#043d46"/>
+        <path id="_4" data-name="4" d="M0-318.382s294.439-78.26,532.247-46.317c139.356,18.719,390.789,8.684,505.6,156.708s132.363,530.313,132.363,530.313S610.419-69.208,585.168,227.395C574.207,356.146,737.208,465.9,942.663,459.369c112.568-3.578,169.533-42.339,433.767-13.054s625.763,149.976,625.763,149.976v355.16L0,927.427Z" transform="translate(339.484 543.461)" fill="#065d6a"/>
+        <path id="_3" data-name="3" d="M0-78.376s592.7-153.247,830.507-121.3c111.057,14.917,205.669,53.33,346.923,174.8s152.124,475.529,152.124,475.529S1159.7,244.563,961.7,189.069C706.9,117.653,386.09,98.617,441.742,407.691,462.669,523.917,588.08,651.964,750.732,719.244c142.87,59.1,322.337,65.551,376.878,50.154,116.292-32.829,166.488-50.154,318.3-50.154s87.5,7.657,288.963,50.154,462.857,56.066,462.857,56.066L2130.5,1382.057,0,1167.433Z" transform="translate(288.746 278.086)" fill="#016286"/>
+        <path id="_2" data-name="2" d="M0-230.1l563.543-199.71,369.964,34.491s-359.661,3.936-513.5,143.636C238.543-86.893,181.149,199.5,367.554,443.9,533.373,661.315,832.544,683.454,973.5,660.553s183.446-106.888,481.625-98S2166.216,696.11,2166.216,696.11v355.16L0,1015.713Z" transform="translate(263.378 429.807)" fill="#078cbd"/>
+        <path id="_1" data-name="1" d="M0-309.862s99.508-65.806,115.736,0c44.1,178.833-21.074,559.012,406,784.4s471.193-41.3,850.636-34.375,667.136,62.059,667.136,62.059v355.16L0,876.324Z" transform="translate(263.378 612.323)" fill="#29b4dd"/>
+      </g>
+    </g>
+    <text id="THE_TIDE_IS_COMING" data-name="THE
+TIDEIS COMING" transform="translate(-10 611.75)" fill="#fff" font-size="296" font-family="Montserrat" font-weight="800" font-style="italic"><tspan x="0" y="0">THE</tspan><tspan x="0" y="239">TIDE</tspan><tspan x="0" y="478">IS COMING</tspan></text>
+  </g>
+</svg>
