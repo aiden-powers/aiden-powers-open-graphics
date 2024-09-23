@@ -3,8 +3,9 @@
 # Sonic Squirrels
 The Sonic Squirrels are a FIRST Robotics Competition (FRC) team located in Snohomish, Washington.
 
-## Open Graphics Commitment
-SOME designs in this collection are commited to open graphics. Notably, our branding fonts are paid-to-use.
+## Notes
+- These designs are reference-only images.
+- Our branding fonts are paid-to-use. (Vermin Vibes and its variations)
 
 ## Fonts
 ### Paid Fonts
